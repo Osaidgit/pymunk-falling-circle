@@ -14,7 +14,9 @@ It demonstrates a circle falling under gravity and stopping when it collides wit
 
 - Python 3.x
 - Pygame
-- Pymunk
+- Pymunk.
+![image 1](https://github.com/Osaidgit/pymunk-falling-circle/blob/master/circle.gif)
+  
 
 You can install dependencies using:
 
@@ -22,4 +24,4 @@ You can install dependencies using:
 pip install pygame pymunk
 
 
-![image 1](https://github.com/Osaidgit/pymunk-falling-circle/blob/master/circle.gif)
+
